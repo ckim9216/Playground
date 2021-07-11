@@ -1,3 +1,3 @@
-# Playground(100A/102A)
+# Playground for 100A & 102A
 
-Programming Experience
+Light Programming Experience
